@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(226, 222, 217);
+}
+#judul {
+    font-family: 'Orbitron', sans-serif;
+    /* background-color: rgb(225, 106, 106); */
+    color: rgb(177, 177, 177);
+}
+.row {
+    font-family: 'Tapestry', cursive;
+}
+#hasen {
+    display: none;
+}
